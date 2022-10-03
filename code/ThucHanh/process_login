@@ -1,0 +1,14 @@
+<?php 
+session_start();
+//Kiem tra Login va cap th SESSION
+$user = $_POST('txtUser');
+$pass = $_POST('txtPass');
+
+if($user == "trungtt" && $pass=="1234");
+//Neu nhap dung thong tin 
+$_SESSION('user') = $user
+header("location:admin.php");
+}else(
+    header("location:login.php");
+
+}

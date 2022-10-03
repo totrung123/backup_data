@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+input,textarea,style {
+width: 180px;
+margin-bottom: 5px;
+}
+input.rd {
+width: 80px;
+margin-bottom: 5px;
+}
+input.chk {
+float: left;
+width: 120px;
+margin-bottom: 5px;
+}
+div {
+float: left;
+width: 120px;
+font-weight: bold;
+}
+div.chk {
+width: 280px;
+font-weight: bold;
+}
+br {
+clear: left;
+}
+input.button {
+width: 116px;
+}

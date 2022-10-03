@@ -1,0 +1,30 @@
+body{
+    background-color:pink;
+}
+h2#Manh{
+    text-align: center;
+    color:blue;
+} 
+h1#TT{
+    text-align: center;
+    color:blue;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+h3#TM{
+    text-align: center;
+    color:BLUE; 
+} 
+p.Trung{
+    text-align: center;
+    color:blueviolet;
+    font: size 700px ;
+
+} 
+table,th,td{
+    border: 1px solid black;
+    style="width: 100%;"
+} 
+
